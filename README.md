@@ -132,9 +132,5 @@ MIT License — 随便用，随便改，随便发。
 但凡能有一点限制，也不至于一点限制也没有。
 
 ---
-
-> **本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成**
->
-> 创建者：[花叔](https://x.com/AlchainHust)
 >
 > 最后更新：2026年5月
